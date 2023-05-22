@@ -21,7 +21,7 @@ Eseguire il file exe scaricato (immagine sotto)
 
 
 
-###### Inserire immagini nel README.md
+##### Inserire immagini nel README.md
 Aggiungere l'immagine img.jpg al progetto ed inserirla nel testo con il seguente comando: ![](img.png)
 
 
