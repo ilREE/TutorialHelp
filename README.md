@@ -42,19 +42,31 @@ Creare un file ```README.md``` in blocco note, che sarà il readme file del repo
 
 Da ```git-bash``` eseguire i seguenti comandi:
 
-```git init  # Inizializza il repository locale
-git add README.md  # Inserimento del file README.md nell'area di staging
-git commit -m "first commit"  # Creazione del primo commit, che serve a sincronizzare il repository locale con lo stage
-git branch -M main  # Creazione del branch main, da usare come default
-git remote add origin https://github.com/<username>/Esercitazione16maggio  # Connessione del repository remoto al repository locale
-git push -u origin main  # Sincronizzazione del repository remoto con quello locale
+```git init  # Inizializza il repository locale```
+```git add README.md  # Inserimento del file README.md nell'area di staging```
+```git commit -m "first commit"  # Creazione del primo commit, che serve a sincronizzare il repository locale con lo stage```
+```git branch -M main  # Creazione del branch main, da usare come default```
+```git remote add origin https://github.com/<username>/Esercitazione16maggio  # Connessione del repository remoto al repository locale```
+```git push -u origin main  # Sincronizzazione del repository remoto con quello locale```
 
 
 Nel caso in cui appaia questa finestra
 
+<img width="286" alt="credential" src="https://github.com/ilREE/TutorialHelp/assets/129156247/9ac89568-3d97-435a-b2a3-d512d41ebe92">
+
+selezionare ```manager-ui.```
 
 
+Nel caso, invece, in cui il comando push non dovesse andare a buon fine a causa di problemi con
+l'autenticazione, è stato configurato un account globale, pertanto bisogna eseguire questi passi:
 
+- aprire il seguente link https://github.com/settings/tokens
+- generare un token mediante ```Generate new token (classic)```
+- confermare l'accesso inserendo la propria password, se richiesto
+- in ```Note``` inserire un messaggio come "token di accesso"
+- ```Expiration```: "No expiration"
+- In ```Select scopes``` spuntare la casella accanto a ```repo```, in modo tale da avere la situazione sottostante
+- generare il token e salvarlo in un file di testo
 
 # Inserire immagini nel README.md
 Aggiungere l'immagine img.jpg al progetto ed inserirla nel testo con il seguente comando: ![](nome dell'immagine.png/img)
