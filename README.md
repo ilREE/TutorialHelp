@@ -5,16 +5,6 @@ https://github.com/git-for-windows/git/releases/ -> link per scaricare github
 
 
 scaricare la versione "PortableGit-2.40.1-64-bit.7z.exe"
-
-
-
-
-
-
-
-
-
-
 Eseguire il file exe scaricato (immagine sotto)
 
 
