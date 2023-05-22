@@ -17,7 +17,7 @@ Aprire il programma <git-bash> nella cartella di PortableGit appena creata.
 
 
 
- 
+  
 
 
 
