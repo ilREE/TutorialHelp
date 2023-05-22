@@ -15,7 +15,8 @@ Eseguire il file exe scaricato (immagine sotto)
 
 Aprire il programma ```git-bash``` nella cartella di PortableGit appena creata.
 
-![Uploading git-bash.png…]()
+<img width="452" alt="git-bash" src="https://github.com/ilREE/TutorialHelp/assets/129156247/ec3323dc-9e2f-4d68-a0bf-ff880b560c45">
+
 
 # Creazione progetto
 Creare una cartella per il progetto sul Desktop chiamata ```VerificaDambra```. su git-bash eseguire
