@@ -68,6 +68,27 @@ l'autenticazione, è stato configurato un account globale, pertanto bisogna eseg
 - In ```Select scopes``` spuntare la casella accanto a ```repo```, in modo tale da avere la situazione sottostante
 - generare il token e salvarlo in un file di testo
 
+
+
+
+
+![token](https://github.com/ilREE/TutorialHelp/assets/129156247/b4f7b350-c07d-4567-acf9-436fbfc2a335)
+
+
+
+Dopodiché, eseguire nuovamente il comando push usando il seguente formato:
+
+```git push https://<username>:<token>@github.com/<username>/<reponame>.git```
+dove ```<username>``` è il vostro username, al posto di ```<token>``` bisogna inserire il token creato prima e ```<reponame>``` è il nome del repository sul quale si vuole effettuare il ```push``` (in questo caso, ```<reponame>``` è ```Git-tutorial).```
+
+
+
+
+
+
+
+
+
 # Inserire immagini nel README.md
 Aggiungere l'immagine img.jpg al progetto ed inserirla nel testo con il seguente comando: ![](nome dell'immagine.png/img)
 
