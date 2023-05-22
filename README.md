@@ -83,10 +83,26 @@ dove ```<username>``` è il vostro username, al posto di ```<token>``` bisogna i
 
 
 
+# Aggiunta di nuovi file al repository
 
+1. Creare un nuovo file main.c nel workspace
+2. Implementare un programma che, dati in input 10 numeri positivi, trovi il massimo e lo visualizzi a video
+3. Aggiungere il nuovo file nell'area di staging
+4. Sincronizzare l'area di staging con il repository locale (usando un messaggio di commit congruo)
+5. Sincronizzare il repository remoto con quello locale
 
+Per ognuno dei punti, effettuare, separatamente, i punti da 2 a 5 per sincronizzare i repository.
 
+Di seguito vi sono delle istruzioni per migliorare la formattazione del file README.md
 
+# NOTA: Il repository che creerete in questa esercitazione vi sarà utile per le prossime esercitazioni.
+
+# Migioramento del file README.md
+
+- Aggiungere la traccia dell'esercizio svolto
+- Aggiungere una descrizione del codice
+- Inserire una sezione in cui vengono spiegati i comandi utilizzati per la creazione di questo repository in stile tutorial
+- Spiegare, in una nuova sezione, le funzioni base di Git
 
 
 # Inserire immagini nel README.md
