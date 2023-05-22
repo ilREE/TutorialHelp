@@ -15,14 +15,18 @@ Eseguire il file exe scaricato (immagine sotto)
 
 Aprire il programma ```git-bash``` nella cartella di PortableGit appena creata.
 
+![Uploading git-bash.png…]()
 
+# Creazione progetto
+Creare una cartella per il progetto sul Desktop chiamata ```VerificaDambra```. su git-bash eseguire
+```cd $HOME/path/to/VerificaDambra```
+dove ```path/to/``` rappresenta il percorso della carteòòa ```VerificaDambra```.
 
-  
-
+Creare un file ```README.md``` in blocco note, che sarà il readme file del repository Git, e scrivere al suo interno la traccia dell'esercitazione indicata su Classroom. Salvare il file.
 
 
 # Inserire immagini nel README.md
-Aggiungere l'immagine img.jpg al progetto ed inserirla nel testo con il seguente comando: ![](img.png)
+Aggiungere l'immagine img.jpg al progetto ed inserirla nel testo con il seguente comando: ![](nome dell'immagine.png/img)
 
 
 # Inserire sezioni
