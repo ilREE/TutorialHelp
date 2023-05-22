@@ -17,7 +17,7 @@ Eseguire il file exe scaricato (immagine sotto)
 
 
 
-
+ 
 
 
 
