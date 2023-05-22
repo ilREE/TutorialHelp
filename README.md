@@ -25,6 +25,16 @@ dove ```path/to/``` rappresenta il percorso della carteòòa ```VerificaDambra``
 
 Creare un file ```README.md``` in blocco note, che sarà il readme file del repository Git, e scrivere al suo interno la traccia dell'esercitazione indicata su Classroom. Salvare il file.
 
+# Creazione repository su Github
+-  Aprire il sito github.com
+- Effettuare il login
+- Cliccare su New
+
+
+<img width="215" alt="newRepo" src="https://github.com/ilREE/TutorialHelp/assets/129156247/c2b5c12c-c685-4ccd-aad7-2511fd1cd0c4">
+
+<img width="215" alt="newRepo" src="https://github.com/ilREE/TutorialHelp/assets/129156247/64415706-c013-4137-8b40-b4d20b6f5eba">
+
 
 # Inserire immagini nel README.md
 Aggiungere l'immagine img.jpg al progetto ed inserirla nel testo con il seguente comando: ![](nome dell'immagine.png/img)
