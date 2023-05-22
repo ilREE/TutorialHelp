@@ -24,6 +24,7 @@ Aprire il programma ```git-bash``` nella cartella di PortableGit appena creata.
 
 # Creazione progetto
 Creare una cartella per il progetto sul Desktop chiamata ```VerificaDambra```. su git-bash eseguire
+
 ```cd $HOME/path/to/VerificaDambra```
 dove ```path/to/``` rappresenta il percorso della carteòòa ```VerificaDambra```.
 
