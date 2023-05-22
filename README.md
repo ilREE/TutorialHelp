@@ -13,7 +13,7 @@ Eseguire il file exe scaricato (immagine sotto)
 
 <img width="264" alt="exe" src="https://github.com/ilREE/TutorialHelp/assets/129156247/68134db1-00a7-4742-befa-e24b67cdc85b">
 
-Aprire il programma ```git-bash nella cartella di PortableGit appena creata.
+Aprire il programma >git-bash nella cartella di PortableGit appena creata.
 
 
 
