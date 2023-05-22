@@ -33,7 +33,27 @@ Creare un file ```README.md``` in blocco note, che sarà il readme file del repo
 
 <img width="215" alt="newRepo" src="https://github.com/ilREE/TutorialHelp/assets/129156247/c2b5c12c-c685-4ccd-aad7-2511fd1cd0c4">
 
-<img width="215" alt="newRepo" src="https://github.com/ilREE/TutorialHelp/assets/129156247/64415706-c013-4137-8b40-b4d20b6f5eba">
+- Creare un nuovo repository ```VerificaDambra```, prestando attenzione a non creare un Readme di default.
+
+<img width="573" alt="repo" src="https://github.com/ilREE/TutorialHelp/assets/129156247/3f02bcf4-440b-4195-a18d-e502561e40d5">
+
+
+# Configurazione del repository locale e sincronizzazione
+
+Da ```git-bash``` eseguire i seguenti comandi:
+
+```git init  # Inizializza il repository locale
+git add README.md  # Inserimento del file README.md nell'area di staging
+git commit -m "first commit"  # Creazione del primo commit, che serve a sincronizzare il repository locale con lo stage
+git branch -M main  # Creazione del branch main, da usare come default
+git remote add origin https://github.com/<username>/Esercitazione16maggio  # Connessione del repository remoto al repository locale
+git push -u origin main  # Sincronizzazione del repository remoto con quello locale```
+
+
+
+
+
+
 
 
 # Inserire immagini nel README.md
