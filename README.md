@@ -26,7 +26,7 @@ Aprire il programma ```git-bash``` nella cartella di PortableGit appena creata.
 Creare una cartella per il progetto sul Desktop chiamata ```VerificaDambra```. su git-bash eseguire
 
 ```cd $HOME/path/to/VerificaDambra```
-dove ```path/to/``` rappresenta il percorso della carteòòa ```VerificaDambra```.
+dove ```path/to/``` rappresenta il percorso della cartella ```VerificaDambra```.
 
 Creare un file ```README.md``` in blocco note, che sarà il readme file del repository Git, e scrivere al suo interno la traccia dell'esercitazione indicata su Classroom. Salvare il file.
 
