@@ -50,7 +50,7 @@ git remote add origin https://github.com/<username>/Esercitazione16maggio  # Con
 git push -u origin main  # Sincronizzazione del repository remoto con quello locale```
 
 
-
+Nel caso in cui appaia questa finestra
 
 
 
